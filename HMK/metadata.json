@@ -2,5 +2,10 @@
     "name": "PT. Hamengku Karya Token",
     "symbol": "HMK",
     "description": "Designed to drive innovation, transparency, and community engagement within our ecosystem.",
-    "image": "https://raw.githubusercontent.com/slacky666/Token/refs/heads/main/HMK/hmk.jpg"
+    "image": "https://raw.githubusercontent.com/slacky666/Token/refs/heads/main/HMK/hmk.jpg",
+    "extensions": {
+        "website": "https://hmk.id",
+        "twitter": "",
+        "telegram": ""
+      }    
 }
