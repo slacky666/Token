@@ -7,5 +7,10 @@
         "website": "https://hmk.id",
         "twitter": "",
         "telegram": ""
-      }    
+    },
+    "tags": ["Meme", "Artifical Intelligence", "Technology", "AI", "Community"],
+    "creator": {
+      "name": "Aliensky Tool",
+      "site": "https://aliensky.xyz"
+    }
 }
