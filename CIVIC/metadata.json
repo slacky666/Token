@@ -1,0 +1,16 @@
+{
+  "name": "Civic Community",
+  "symbol": "CIVIC",
+  "description": "Civic is the ultimate meme coin created for and by the dedicated community of Honda Civic lovers worldwide.",
+  "image": "https://raw.githubusercontent.com/slacky666/Token/refs/heads/main/HMK/hmk.jpg",
+  "extensions": {
+      "website": "https://civic.xyz",
+      "twitter": "",
+      "telegram": ""
+  },
+  "tags": ["Meme", "Honda", "Modification", "Car", "Community"],
+  "creator": {
+    "name": "Aliensky Tool",
+    "site": "https://aliensky.xyz"
+  }
+}
